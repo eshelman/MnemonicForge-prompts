@@ -67,7 +67,7 @@ Create a home maintenance checklist and schedule with these parameters:
 {{special_features}}
 {{/if}}
 
-**Current Date:** {{currentDate}}
+**Current Date:** {{formatDate date "en-US" dateStyle="long"}}
 
 Please provide:
 

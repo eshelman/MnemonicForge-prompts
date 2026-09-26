@@ -52,7 +52,7 @@ Please organize the output with these sections as applicable:
 - **Action Items**: Tasks assigned with owners and deadlines
 - **Open Questions**: Unresolved items needing follow-up
 
-Today's date for reference: {{currentDate}}
+Today's date for reference: {{formatDate date "en-US" dateStyle="long"}}
 
 ---
 
